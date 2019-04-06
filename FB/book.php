@@ -19,9 +19,7 @@
 
     </br>
 	
-	<h2>Friends Book</h2>
-
-	</br>
+    <h2>My best friends !</h2>
 
     <?php
 
