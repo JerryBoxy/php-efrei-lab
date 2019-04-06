@@ -1,0 +1,14 @@
+div
+{
+  height: 200px;
+  width: 400px;
+
+  font-size: 50px;
+  font-style: bold;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  right: 50%;
+  bottom: 50%;
+}
